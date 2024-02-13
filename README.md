@@ -23,7 +23,7 @@
 
  1. Vipul Damre (Captain)
     Project:  [Chrome Extension]
-    Hosted link ()
+    [Hosted link](https://drive.google.com/file/d/1FjXSscBZ6NnGY5oMwXSvTyEyE6CZlPOR/view?usp=drive_link)
 
  2. Yugal Kumbhare
     Project: [Resume Template]
