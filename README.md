@@ -1,7 +1,7 @@
 # Geekster Module 4 Geekathon02 by Team 4
 ## Project Information
 
-[Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/)
+# [Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/)
 
 
 ## Features
