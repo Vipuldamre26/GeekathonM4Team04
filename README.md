@@ -21,27 +21,27 @@
 
 ## Team Info.
 
- 1. Vipul Damre (Captain)
+ 1. [Vipul Damre](https://www.linkedin.com/in/vipul-damre-2237241a7/) (Captain)
     Project:  [Chrome Extension]
     [Hosted link](https://drive.google.com/file/d/1FjXSscBZ6NnGY5oMwXSvTyEyE6CZlPOR/view?usp=drive_link)
 
- 2. Yugal Kumbhare
+ 2. [Yugal Kumbhare](https://www.linkedin.com/in/yugal-kumbhare-7b9825284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
     Project: [Resume Template]
     [Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/Yugal_Kumbhare/index.html)
 
- 3. Ritesh Kumar
+ 3. [Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar-verma-6785661a5/)
     Project: [Payment Integration]
-    [Hosted Link]()
+    [Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/Ritesh_Kumar/index.html)
 
- 4. Punam Rani
+ 4. [Punam Rani](https://www.linkedin.com/in/punam-rani-7bab72286/)
     Project: [Trello Clone]
-    [Hosted Link]()
+    [Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/Punam_Rani/index.html)
 
- 5. Pranjul Mittal
+ 5. [Pranjul Mittal](https://www.linkedin.com/in/pranjul-mittal-9695b5216/)
     Project: [Typing Speed Test Game]
     [Hosted Link]()
 
- 6. Kartik Garg
+ 6. [Kartik Garg]()
     Project: Chrome Extension
     [Hosted Link]()
 

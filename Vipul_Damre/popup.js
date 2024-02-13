@@ -91,6 +91,11 @@ const setBookmarkAttributes =  (src, eventListener, controlParentElement) => {
   controlParentElement.appendChild(controlElement);
 };
 
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", async () => {
   const activeTab = await getActiveTabURL();
   const queryParameters = activeTab.url.split("?")[1];
