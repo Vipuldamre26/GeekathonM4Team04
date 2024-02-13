@@ -41,7 +41,7 @@
 
  5. [Pranjul Mittal](https://www.linkedin.com/in/pranjul-mittal-9695b5216/)
     Project: [Typing Speed Test Game]
-    [Hosted Link]()
+    [Hosted Link](https://vipuldamre26.github.io/GeekathonM4Team04/Pranjul_Mittal/index.html)
 
  6. [Kartik Garg]()
     Project: Chrome Extension
