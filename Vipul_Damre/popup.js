@@ -1,5 +1,9 @@
 import { getActiveTabURL } from "./utils.js";
 
+
+
+
+// if there is no bookmark so we add new bookmark 
 const addNewBookmark = (bookmarks, bookmark) => {
   const bookmarkTitleElement = document.createElement("div");
   const controlsElement = document.createElement("div");
@@ -21,6 +25,11 @@ const addNewBookmark = (bookmarks, bookmark) => {
   bookmarks.appendChild(newBookmarkElement);
 };
 
+
+
+
+
+
 const viewBookmarks = (currentBookmarks=[]) => {
   const bookmarksElement = document.getElementById("bookmarks");
   bookmarksElement.innerHTML = "";
@@ -37,6 +46,10 @@ const viewBookmarks = (currentBookmarks=[]) => {
   return;
 };
 
+
+
+// when we click play button in chrome extension it will redirect to that time 
+
 const onPlay = async e => {
   const bookmarkTime = e.target.parentNode.parentNode.getAttribute("timestamp");
   const activeTab = await getActiveTabURL();
@@ -47,6 +60,9 @@ const onPlay = async e => {
   });
 };
 
+
+
+// on delete will delete that bookmark 
 const onDelete = async e => {
   const activeTab = await getActiveTabURL();
   const bookmarkTime = e.target.parentNode.parentNode.getAttribute("timestamp");
@@ -61,6 +77,10 @@ const onDelete = async e => {
     value: bookmarkTime,
   }, viewBookmarks);
 };
+
+
+
+
 
 const setBookmarkAttributes =  (src, eventListener, controlParentElement) => {
   const controlElement = document.createElement("img");
