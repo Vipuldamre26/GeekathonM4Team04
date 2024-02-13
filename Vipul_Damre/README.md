@@ -2,7 +2,7 @@ Chrome Extension Project README
 
 Project Title: Quick Bookmarker
 
-[Hosted Link]()
+[Hosted Link](https://drive.google.com/file/d/1FjXSscBZ6NnGY5oMwXSvTyEyE6CZlPOR/view?usp=drive_link)
 
 
 Description:
